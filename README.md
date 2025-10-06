@@ -27,4 +27,4 @@ Visualization: Power BI
 - 👯 I’m looking to collaborate on ... cultural-historic business projects
 - 🤔 I’m looking for help with ... network opportunities
 - 💬 Ask me about ... my resume
-- ⚡ Fun fact: ... I once composed a “Mozart” piece for string trio that people thought was real
+- ⚡ Fun fact: ... I once composed and performed a Mozart-like piece for string trio that people thought was real
