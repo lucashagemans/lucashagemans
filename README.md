@@ -1,4 +1,4 @@
-## 👋 Introducing Myself
+# 👋 Introducing Myself
 
 Hello, I'm Lucas. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
@@ -11,21 +11,21 @@ I also have a lifelong fascination with music and cultural history which I try t
 
 With my Vughtse Programmeer Club I especially like to do domotica and electronic engineering.
 
-## 📚 Projects
+# 📚 Projects
 
 Welcome to my portfolio, where I showcase my projects.
 
-## 🛠️ Tools
+# 🛠️ Tools
 
 Languages: Python (Pandas, NumPy, MatplotLib, Seaborn), SQL, JS  
 Tools & Frameworks: MySQL, Excel
 Visualization: Power BI
 
-## 👋🏻 Connect with Me
+# 👋🏻 Connect with Me
 [Linkedin](https://www.linkedin.com/in/lucas-hagemans-757a413b/)
 [imslp](https://imslp.org/wiki/Category:Hagemans,_Lucas)
 
-## In short
+# In short
 
 - 🔭 I’m currently working on ... genealogy automation
 - 🌱 I’m currently learning ... agentic AI
@@ -34,15 +34,15 @@ Visualization: Power BI
 - 💬 Ask me about ... my resume
 - ⚡ Fun fact: ... I once composed and performed a Mozart-like piece for string trio that people thought was real
 
-## Publications
+# Publications
 
-# Technical
+## Technical
 - From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors" (2022) 8ste Co-auteur
 - thesoundofaiosr.github.io
 - museumslager.nl
 - vughterdriehoek.nl
   
-# Cultural
+## Cultural
 * Oud Paaschlied uit Twente op motieven der paaschsequenz: “Victimae Paschali”, Scholaris Pasen 2025
 * Graduale uit de 16e eeuw vol verrassingen, Scholaris Pasen 2025
 * De Pirenne-these en de Reconquista, Scholaris Kerst 2024
