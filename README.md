@@ -38,9 +38,9 @@ Visualization: Power BI
 
 ## Technical
 - [From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors" (2022)](https://zenodo.org/records/7088416)
-- (thesoundofaiosr.github.io)
-- (museumslager.nl)
-- (vughterdriehoek.nl)
+- [thesoundofaiosr.github.io](thesoundofaiosr.github.io)
+- [museumslager.nl](museumslager.nl)
+- [vughterdriehoek.nl](vughterdriehoek.nl)
   
 ## Cultural
 * Oud Paaschlied uit Twente op motieven der paaschsequenz: “Victimae Paschali”, Scholaris Pasen 2025
