@@ -22,8 +22,8 @@ Tools & Frameworks: MySQL, Excel
 Visualization: Power BI
 
 # 👋🏻 Connect with Me
-[Linkedin](https://www.linkedin.com/in/lucas-hagemans-757a413b/)
-[imslp](https://imslp.org/wiki/Category:Hagemans,_Lucas)
+- [Linkedin](https://www.linkedin.com/in/lucas-hagemans-757a413b/)
+- [imslp](https://imslp.org/wiki/Category:Hagemans,_Lucas)
 
 # In short
 
@@ -37,10 +37,10 @@ Visualization: Power BI
 # Publications
 
 ## Technical
-- From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors" (2022) 8ste Co-auteur
-- thesoundofaiosr.github.io
-- museumslager.nl
-- vughterdriehoek.nl
+- [From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors" (2022)](https://zenodo.org/records/7088416)
+- (thesoundofaiosr.github.io)
+- (museumslager.nl)
+- (vughterdriehoek.nl)
   
 ## Cultural
 * Oud Paaschlied uit Twente op motieven der paaschsequenz: “Victimae Paschali”, Scholaris Pasen 2025
