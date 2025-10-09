@@ -38,6 +38,7 @@ Visualization: Power BI
 
 ## Technical
 - [From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors" (2022)](https://zenodo.org/records/7088416)
+- https://www.youtube.com/watch?v=1WWIWSHow_4 
 - [thesoundofaiosr.github.io](thesoundofaiosr.github.io)
 - [museumslager.nl](museumslager.nl)
 - [vughterdriehoek.nl](vughterdriehoek.nl)
